@@ -4,8 +4,8 @@
 
 ### 📫 You hiring? Get in touch - fully available to join your team!
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/samuel-lee-690891b4/)
-- **Portfolio**: [kozykoding](https://kozykoding.com)
-- **Email**: sammy@kozykoding.com
+- **Portfolio**: [cozyy.dev](https://cozyy.dev)
+- **Email**: sammy@cozyy.dev
 
 ### 🔭 Currently Working On
 - ⚡ Finishing the **Boot.dev** Backend Development curriculum.
