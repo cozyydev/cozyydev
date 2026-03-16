@@ -15,7 +15,7 @@
   <img width="684" height="435" alt="screenshot-2026-03-16_13-44-30" src="https://github.com/user-attachments/assets/6a458025-6bc4-4eb0-aa6d-91e8ee6c510e" />
 
 
-- 📖 Learning more about Backend Deverlopment, DevOps Engineering, and Database Optimization.
+- 📖 Learning more about Backend Development, DevOps Engineering, and Database Optimization.
 
 ### 🏆 Boot.dev Progress
 <p align="left">
